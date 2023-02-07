@@ -16,4 +16,4 @@ pdf
 
 The following map was created in QGIS and exported to the web using the GIS2Web plugin. The map shows the locations of foreign embassies in Malta. The pop-up for each marker displays the embassy name, the country represented in the embassy, the Maltese city where the embassy is located, and the embassy's full address.
 
-[Web Map 2](https://lily-ehler.github.io/LA558_Lily_Ehler/Assignments/Assignment1/qgis2web_3a/index.html)
+[Web Map 3](https://lily-ehler.github.io/LA558_Lily_Ehler/Assignments/Assignment1/qgis2web_3a/index.html)
