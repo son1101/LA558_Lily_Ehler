@@ -7,4 +7,4 @@ Graduate Student in Urban Design at Iowa State University
 - Basics of QGIS [Exercise 2b](Exercises/2b/ex2b.md)
 
 ### Assignments:
-- OpenStreetMap, Geospacial PDFs, & GIS2Web [Assignment 3a](Assignments/assign3a.md)
+- OpenStreetMap, Geospatial PDFs, & GIS2Web [Assignment 3a](Assignments/assign3a.md)
